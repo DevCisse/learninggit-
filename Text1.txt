@@ -1,4 +1,4 @@
-A commment
+A commment and a line appended
 
 A c
 omment on another line
